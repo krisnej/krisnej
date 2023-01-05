@@ -1,6 +1,6 @@
 # Hi, I'm Kristina 👋
 
-## Data Engineer
+## Data Engineer in Climate Tech
 
 ### Tech Stack :computer:
 * Python
@@ -10,8 +10,6 @@
 * Airflow
 * SQL
 * Postgres
-* 
-
 
 ### Currently learning ... :seedling:
 * Kafka
@@ -20,11 +18,10 @@
 
 ### What I like :heartpulse:
 * Languages (the ones you speak, not code :speech_balloon: :wink:)
-* solar-powered (I have so much more energy when the sun is shining! :sunny:)
 * Plants (lots of 'em!) :blossom: :cactus: :seedling:
-* Partner acrobatics :cartwheel:
-* Meditation 
-* bike-friendly infrastructure
+* Partner acrobatics 
+* Meditation :relieved:
+* Bike-friendly infrastructure :bike:
 
 ### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/kristina-nejdl/) 
