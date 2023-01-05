@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Kristina 👋
 
-<!--
-**krisnej/krisnej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer
 
-Here are some ideas to get you started:
+### Tech Stack :computer:
+* Python
+* FastAPI
+* Docker :whale:
+* Google Cloud Platform (BigQuery, Composer, PubSub, Dataform, ...)
+* Airflow
+* SQL
+* Postgres
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Currently learning ... :seedling:
+* Kafka
+* Flink
+* the difference between Airflow and Prefect
+
+### What I like :heartpulse:
+* Languages (the ones you speak, not code :speech_balloon: :wink:)
+* solar-powered (I have so much more energy when the sun is shining! :sunny:)
+* Plants (lots of 'em!) :blossom: :cactus: :seedling:
+* Partner acrobatics :cartwheel:
+* Meditation 
+* bike-friendly infrastructure
+
+### 📫 How to reach me:
+* [LinkedIn](https://www.linkedin.com/in/kristina-nejdl/) 
